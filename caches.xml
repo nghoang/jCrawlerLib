@@ -1,0 +1,15 @@
+<caches>
+
+<request file="5fbc284bd4f29a8fef1b41a75d11521b" request_time="2011-01-28 14:28:39" size="74449" url="http://vnexpress.net/">
+<headers>
+<header_item name="User-Agent" value="Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8"/>
+</headers>
+<cookies>
+<cookie_item name="FPoupUnder1" value="1"/>
+<cookie_item name="linkPDA" value="0"/>
+<cookie_item name="VisitorID" value="318D09A1%2DF8E6%2D4937%2D8B49%2D8B2AC845A7D5"/>
+<cookie_item name="pdaGuid" value="0"/>
+<cookie_item name="ASPSESSIONIDQQQBARDR" value="FLEGNPOANBCCHLFDNPIJNEEF"/>
+</cookies>
+</request>
+</caches>
